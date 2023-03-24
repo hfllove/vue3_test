@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    <title><%= webpackConfig.name %></title>
+    <!-- 引入cdn资源，减少打包时间，优化项目性能 -->
+    <!-- vue -->
+    <script src="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/vue/2.6.10/vue.min.js" type="application/javascript"></script>
+    <!-- vue-router -->
+    <script src="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/vue-router/3.0.6/vue-router.min.js" type="application/javascript"></script>
+    <!-- element-ui -->
+    <script src="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/element-ui/2.13.2/index.js" type="application/javascript"></script>
+    <!-- vuex -->
+    <script src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/vuex/3.1.0/vuex.min.js" type="application/javascript"></script>
+    <!-- axois -->
+    <script src="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/axios/0.18.1/axios.min.js" type="application/javascript"></script>
+    <!-- element-ui/lib/theme-chalk/index.css 样式 -->
+    <link href="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/element-ui/2.13.2/theme-chalk/index.css" type="text/css" rel="stylesheet" />
+    <!-- 引入在线iconfont.css样式 -->
+    <link rel="stylesheet" href="//at.alicdn.com/t/c/font_3417061_phpujxgm2w.css">
+  </head>
+  <body>
+    <noscript>
+      <strong>We're sorry but <%= webpackConfig.name %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+</html>
