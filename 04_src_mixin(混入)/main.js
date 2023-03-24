@@ -1,0 +1,21 @@
+// 该文件是整个项目的入口文件
+// 引入Vue框架
+import Vue from 'vue'
+
+// 引入App组件
+import App from './App.vue'
+
+// 引入全局混合配置
+import {hunhe} from './mixin'
+Vue.mixin(hunhe)
+
+// 关闭生产提示
+Vue.config.productionTip = false
+
+
+
+// 创建vm实例
+new Vue({
+    render: h => h(App),
+    
+}).$mount('#app')
