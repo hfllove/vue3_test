@@ -1,4 +1,6 @@
-F:\尚硅谷后台管理项目\vue-admin-template-master
+# vue2后台管理项目-树形目录
+
+```
 ├── babel.config.js
 ├── build/
 |  └── index.js
@@ -158,7 +160,4 @@ F:\尚硅谷后台管理项目\vue-admin-template-master
 |           └── index.vue
 ├── tree.md
 └── vue.config.js
-
-directory: 4580 file: 33427
-
-ignored: directory (376)
+```
