@@ -1,0 +1,86 @@
+[
+    {
+        "seckill_items": [
+            {
+                "id": "1",
+                "imgUrl": "/images/10001_seckill.jpg",
+                "seckill_name": "袋鼠妈妈 小麦鲜萃保湿4件套 孕妇护肤套装孕妇护肤品孕妇化妆品洗面奶柔肤水乳液",
+                "seckill_price": "258.00"
+            },
+            {
+                "id": "2",
+                "imgUrl": "/images/10002_seckill.jpg",
+                "seckill_name": "中国电信 雷神卡29元流量卡 （赠费）版 130G全国流量不限速 长期套餐 流量卡 纯上网 手机卡 电话卡 上网卡",
+                "seckill_price": "19.50"
+            },
+            {
+                "id": "3",
+                "imgUrl": "/images/10003_seckill.jpg",
+                "seckill_name": "ThinkPad 联想ThinkBook 14 新款 14英寸高端轻薄商务办公学生手提游戏笔记本电脑 锐龙六核 R5-5500U 16G 512G 标配 100%RGB高色域 IPS高清屏丨Win11",
+                "seckill_price": "3899.00"
+            },
+            {
+                "id": "4",
+                "imgUrl": "/images/10004_seckill.jpg",
+                "seckill_name": "2022新版 点点点（小黄和小蓝升级版）宝宝视觉锻炼 杜莱大师作品 0-2岁幼儿启蒙绘本 早教书",
+                "seckill_price": "41.00"
+            }
+        ]
+    },
+    {
+        "seckill_items": [
+            {
+                "id": "5",
+                "imgUrl": "/images/10005_seckill.jpg",
+                "seckill_name": "恒源祥巨厚羊毛德绒男士保暖裤加厚加绒棉裤男东北加肥加大码宽松毛裤绒裤秋裤男打底裤防寒冬季 深灰",
+                "seckill_price": "89.00"
+            },
+            {
+                "id": "6",
+                "imgUrl": "/images/10006_seckill.jpg",
+                "seckill_name": "国产大虾 万景 北海鲜冻白虾(大号) 净重4斤 80-100只 对虾 生鲜 海鲜",
+                "seckill_price": "139.00"
+            },
+            {
+                "id": "7",
+                "imgUrl": "/images/10007_seckill.jpg",
+                "seckill_name": "聚利时Julius手表女韩版时尚小巧潮流学生石英女士手表玫金咖盘JA-917D",
+                "seckill_price": "119.00"
+            },
+            {
+                "id": "8",
+                "imgUrl": "/images/10008_seckill.jpg",
+                "seckill_name": "林内(Rinnai)16升燃气热水器 智慧恒温 全新升级CPU 黄金窄比 恒温系列RUS-16GD31",
+                "seckill_price": "3398.90"
+            }
+        ]
+    },
+    {
+        "seckill_items": [
+            {
+                "id": "9",
+                "imgUrl": "/images/10009_seckill.png",
+                "seckill_name": "九阳（Joyoung） 破壁机家用免滤豆浆机1.75L大容量高转速榨汁机低音多功能料理机 P132",
+                "seckill_price": "539.90"
+            },
+            {
+                "id": "10",
+                "imgUrl": "/images/10010_seckill.jpg",
+                "seckill_name": "SWAROVSKI施华洛世奇跳动的心SPARKLING DC项链 生日礼物 送女友蓝色 5279425",
+                "seckill_price": "525.00"
+            },
+            {
+                "id": "11",
+                "imgUrl": "/images/10011_seckill.jpg",
+                "seckill_name": "蔻驰 COACH 奢侈品 PARKER系列女士经典山茶花链条包单肩斜挎包卡其配黑色 C4659 B4M2",
+                "seckill_price": "2399.00"
+            },
+            {
+                "id": "12",
+                "imgUrl": "/images/10012_seckill.jpg",
+                "seckill_name": "欧诗漫OSM 珍珠美白面膜补水保湿淡化斑点改善暗沉提亮肤色护肤品男女生日礼物",
+                "seckill_price": "89.90"
+            }
+        ]
+    }
+]

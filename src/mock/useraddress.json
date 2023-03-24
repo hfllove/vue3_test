@@ -1,0 +1,29 @@
+[
+    {
+        "consignee": "吕丽",
+        "fullAddress": "北京 北京市 通州区",
+        "id": 2,
+        "isDefault": "1",
+        "phoneNum": "15126972565",
+        "regionId": 55,
+        "userId": 91
+    },
+    {
+        "consignee": "熊明",
+        "fullAddress": "青海省 西宁市 城中区",
+        "id": 3,
+        "isDefault": "0",
+        "phoneNum": "14697247118",
+        "regionId": 2,
+        "userId": 40
+    },
+    {
+        "consignee": "阎杰",
+        "fullAddress": "云南省 保山市 龙陵县",
+        "id": 7,
+        "isDefault": "0",
+        "phoneNum": "14950676886",
+        "regionId": 39,
+        "userId": 22
+    }
+]
